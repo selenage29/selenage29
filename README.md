@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @selenage29
+- 👀 I’m interested in math and USACO
+- 🌱 I’m currently learning c++ and java
+- 😄 Pronouns: she/her
